@@ -1,0 +1,15 @@
+<?php
+
+    /**
+     * Description of SolicitacaoIncompletaException
+     *
+     * @author Andre Araujo
+     */
+    class SolicitacaoIncompletaException extends CakeException {
+
+        public function __construct() {
+            parent::__construct('A solicitação não pode ser confirmada pois não foi preenchida corretamente.');
+        }
+
+    }
+    

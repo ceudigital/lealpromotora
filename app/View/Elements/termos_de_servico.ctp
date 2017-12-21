@@ -1,0 +1,64 @@
+<textarea disabled="disabled" style="resize: none; font-family: monospace">
+A lealpromotora.com.br ("Website") é pertencente e operado pela Thaisa Leal Andreia ME. ("Leal Promotora"), uma sociedade limitada registrada sob o CNPJ/MF 17.645.589/0001-88, com sede na Rua Dr. Heitor Blum, 779 - Estreito, Florianópolis - SC, 88070-300. Você pode entrar em contato conosco pelo e-mail contato@lealpromotora.com.br ou através do 0800 604 7800.
+A Leal Promotora, por meio do Website, provê um portal que facilita o acesso a informações para a comparação e contratação de produtos financeiros.
+Estes Termos e Condições de Uso, em conjunto com os demais contratos e a nossa política de privacidade, estabelecem os termos e condições aplicáveis à utilização de nosso Website. É muito importante que Você leia e compreenda estas regras, bem como outras regras que possam ser aplicáveis, incluindo aquelas advindas da Lei nº 8.078/1990 ("Código de Defesa do Consumidor").
+É possível navegar pela maior parte do Website sem estar registrado na conta de usuário, caso em que serão aplicáveis as Condições Gerais (Parte I abaixo). Para desfrutar de certas funcionalidades e para acessar certas áreas do Website, será requerido que Você confirme expressamente sua anuência com os Termos e Condições Adicionais (Parte II abaixo) antes do seu primeiro acesso.
+Estes Termos e Condições de Uso podem ser alterados por nós a qualquer momento, sem prévio aviso por parte da Leal Promotora. A última versão destes Termos e Condições de Uso sempre estará disponível no Website: www.lealpromotora.com.br/legal/termos-condicoes, e sugerimos fortemente que Você consulte eventuais atualizações de tempos em tempos. Salientamos que tais alterações serão aplicáveis aos nossos serviços prestados a Você desde o momento em que forem disponibilizadas no Website. Algumas condições disponíveis em avisos legais em outros locais do Website podem substituir ou complementar estes Termos e Condições de Uso.
+Qualquer pessoa que utilizar nossos serviços, o que inclui a simples visita ao Website, assume e expressamente concorda com estes Termos e Condições de Uso.
+Parte I
+1. Condições Gerais
+1.1 A Leal Promotora não é uma instituição financeira, companhia de seguros, operadora de meios de pagamento ou bandeira de cartão de crédito ("Instituições Parceiras"). A Leal Promotora atua apenas como um meio online para que Você e outros usuários encontrem e comparem com maior facilidade os produtos e serviços ofertados pelas Instituições Parceiras.
+1.2 A Leal Promotora não cobra quaisquer valores diretamente dos usuários. Em alguns casos, poderemos receber remunerações das Instituições Parceiras, anunciantes e outras parcerias para que elas possam ser listadas no nosso Website. As Instituições Parceiras poderão cobrar taxas de Você, sem qualquer envolvimento da Leal Promotora.
+1.3 Ao utilizar o Website, Você expressamente reconhece que a Leal Promotora:
+* Não é responsável pelo cumprimento das normas e requisitos legais por parte dos prestadores de serviços indicados no Website. Você é o único responsável pela verificação prévia da regularidade e idoneidade desses prestadores.
+* Não atua e nem substitui consultores e assessores especializados na contratação de serviços financeiros, mesmo que tais serviços sejam indicados no Website.
+* Não é responsável pelas decisões financeiras que Você possa vir a fazer por meio do Website. Só Você será responsável por elas.
+* Não é responsável pelas taxas, cotações, prazos e outros termos relativos aos serviços e produtos indicados no Website.
+2. Disponibilidade do Website
+2.1 A Leal Promotora irá empreender seus melhores esforços para garantir a maior disponibilidade possível do Website e de seus serviços. Todavia, nós não somos responsáveis por qualquer indisponibilidade do Website ou de seus serviços, por qualquer período ou momento.
+2.2 O acesso ao Website pode ser interrompido, suspenso ou ficar intermitente temporariamente, sem qualquer aviso prévio, em caso de falha de sistema, manutenção, alteração de sistemas, ou por motivos que escapem ao controle da Leal Promotora.
+3. Conteúdo
+3.1 A Leal Promotora irá se esforçar para manter o conteúdo do Website atualizado e completo, livre de quaisquer defeitos ou vírus. Contudo, a Leal Promotora não é responsável por esses e outros possíveis problemas. A Leal Promotora poderá alterar o conteúdo do Website a qualquer momento, sem prévio aviso.
+3.2. É fortemente recomendado que o usuário entre em contato com a Leal Promotora caso tenha quaisquer dúvidas com relação ao Website e aos serviços antes de se utilizar destes.
+3.3 O usuário concorda em usar este Website de boa-fé, sem usar, carregar, transmitir ou enviar do Website ou para o Website qualquer material:
+3.3.1 Que seja de cunho violento ou ameaçador, difamatório, obsceno, ofensivo, pornográfico, abusivo, passível de incitar qualquer forma de ódio racial, discriminatório ou em violação de privacidade de terceiro.
+3.3.2 Para o qual não tenham sido obtidas pelo usuário todas as licenças e/ou aprovações necessárias.
+3.3.3 Que constitua ou incite condutas que possam ser consideradas ilícitos criminais ou civis, que violem direitos de terceiros seja no Brasil ou no exterior ou que sejam meramente ilegais sob qualquer outra forma.
+3.3.4 Que sejam tecnicamente danosos, incluindo, mas não limitado a vírus de computador, macros, "cavalos de tróia", worms, componentes maliciosos, dados corrompidos e outros programas ou dados de computador maliciosos ou que sejam projetados para interferir, interromper ou derrubar as operações normais de um computador.
+3.4 Você deve zelar para que seu uso do Website e dos serviços não seja prejudicial à estabilidade e disponibilidade destes. Caso isso ocorra, Você poderá ser responsabilizado pelos prejuízos que comprovadamente der causa.
+4. Direitos de Propriedade Intelectual
+4.1 O uso comercial do nome, dos desenhos e da expressão "Leal Promotora" como nome empresarial, marca, ou nome de domínio, bem como os conteúdos das telas relativas aos serviços da Leal Promotora assim como os infográficos, artigos, colunas, widgets, programas, bancos de dados, documentos e demais utilidades e aplicações que permitem ao usuário acessar e usar sua conta de usuário são de propriedade da Leal Promotora e estão protegidos por todas as leis e tratados aplicáveis.
+4.2 O uso indevido e a reprodução total ou parcial dos referidos conteúdos são proibidos. Caso deseje utilizar algum destes conteúdos, pedimos que entre em contato conosco antes de fazê-lo. Usar qualquer conteúdo aqui mencionado sem a nossa prévia e expressa autorização poderá acarretar em responsabilizações penais e civis.
+5. Links
+5.1 Em virtude de nossas parcerias ou por acreditarmos que possa ser de seu interesse, nós poderemos "linkar" em nosso website, a nosso exclusivo critério, outros websites e funcionalidades da internet, sem que isso signifique que esses websites sejam de propriedade ou operados pela Leal Promotora.
+5.2 A Leal Promotora não será responsável pelos conteúdos, práticas e serviços ofertados por estes websites.
+5.3 A disponibilização de links para outros websites não implica em relação de sociedade, de supervisão, de cumplicidade, solidariedade ou de garantia da Leal Promotora para com esses websites e seus conteúdos.
+6. Privacidade
+6.1 A privacidade dos usuários é muito importante para a Leal Promotora. Ao nos prover com suas informações pessoais, Você nos autoriza a divulgar e/ou utilizar estas informações estritamente nos termos previstos na nossa Política de Privacidade, que está disponível no Website.
+7. Rescisão
+7.1 Para promover o bom funcionamento e qualidade dos serviços do Website, a Leal Promotora se reserva no direito de, sem a necessidade de notificação prévia, impedir ou interromper o acesso do usuário que, segundo a Leal Promotora, estiver atuando de qualquer forma a violar qualquer disposição deste contrato.
+8. Demais Condições
+8.1 A Leal Promotora é uma empresa brasileira e o Website e seus serviços são criados e mantidos em fiel cumprimento às leis brasileiras e demais tratados que são incorporados à jurisdição brasileira. Caso Você esteja usufruindo de nossos serviços fora do Brasil, Você será responsável pelo cumprimento das leis locais, na medida em que forem aplicáveis.
+8.2 Caso a Leal Promotora deixe de exercer qualquer direito previsto nestes Termos e Condições de Uso, isto não deverá ser interpretado como uma renúncia, abdicação ou revogação de disposição constante destes Termos e Condições de Uso.
+8.3 Caso qualquer disposição ou item destes Termos e Condições de Uso seja considerado inaplicável, nula, ilegal ou de qualquer outra forma ineficaz, as demais disposições e itens destes Termos e Condições de Uso continuarão em pleno vigor.
+8.4 Todos os itens destes Termos e Condições Gerais serão regidos pelas leis vigentes da República Federativa do Brasil. Para dirimir quaisquer controvérsias é eleito o Foro da Cidade de Florianópolis no Estado de Santa Catarina, exceção feita a reclamações apresentadas por usuários que se enquadrem no conceito legal de consumidores, que poderão submeter suas queixas que não encontrarem solução amigável ao foro da cidade em que forem radicados, conforme artigo 101, II do Código de Defesa do Consumidor.
+Parte II
+Termos e Condições Adicionais. Estes Termos e Condições Adicionais são complementares aos Termos e Condições Gerais, constantes do Item I, acima.
+9. Cadastro e Registro
+9.1 Quando Você realiza o seu cadastro no Website, Você atesta que todos os dados fornecidos são verdadeiros, completos e precisos.
+9.1.1 Prover informações incompletas, imprecisas ou falsas constitui violação dos deveres deste contrato, estando o usuário inteiramente responsável pelos danos que tal violação der causa.
+9.1.2 A Leal Promotora pode necessitar de mais informações e documentos sobre Você a qualquer tempo, seja para melhor identificá-lo ou para conduzir diligências internas, caso em que Você será requerido a fornecê-las. Não fornecer prontamente tais informações e documentos quando requisitado constituirá violação destes Termos e Condições de Uso.
+9.2 As informações que Você utilizar para preencher o nosso cadastro podem mudar, e Você assume o compromisso de mantê-las sempre atualizadas, alterando-as tão logo ocorra alguma modificação.
+9.3 A Leal Promotora poderá se valer de todas as formas lícitas para verificar, a qualquer tempo, se as informações que Você nos proveu são verdadeiras.
+9.3.1 Se a Leal Promotora constatar que suas informações são de alguma forma incompletas, imprecisas ou falsas, Você poderá ter sua conta suspensa ou cancelada, a exclusivo critério da Leal Promotora, sem prejuízos de outras medidas que sejam aplicáveis.
+9.4 O cadastro no Website é pessoal e intransferível.
+9.5 A Leal Promotora emprega seus melhores esforços para garantir a segurança do seu cadastro, contudo, o sigilo e a segurança do seu nome de usuário e senha são de sua única e exclusiva responsabilidade.
+9.6 Caso acredite que sua conta está sendo utilizada por outra pessoa ou que a segurança de sua conta tenha sido de qualquer forma comprometida, Você se compromete a notificar a Leal Promotora imediatamente.
+10. Solicitação de Propostas ou Cotações
+10.1 Através do Website, Você poderá requerer que as Instituições Parceiras te enviem cotações ou propostas relativas serviços e produtos financeiros que sejam do seu interesse. Ao fazer isso, Você expressamente reconhece que:
+* A Leal Promotora não garante que Você receberá respostas ou cotações das Instituições Parceiras.
+* A Leal Promotora poderá enviar as informações fornecidas por Você para as Instituições Parceiras. Tais informações poderão ser usadas pelas Instituições Parceiras e por outras instituições a elas ligadas para determinarem o seu perfil de consumidor, seu histórico de crédito e outros fatores relevantes para que possam lhe enviar uma proposta adequada. As Instituições Parceiras poderão entrar em contato com Você, através das formas de contato que Você nos proveu ao se cadastrar como usuário do Website.
+* A Leal Promotora poderá enviar informações sobre Você para as Instituições Parceiras, em conformidade com o disposto na nossa Política de Privacidade.
+10.2 A Leal Promotora não é parte no contrato ou relação entre Você e as Instituições Parceiras, e não pode ser responsabilizada pelas obrigações ali assumidas. Tais obrigações serão de responsabilidade exclusiva das partes do contrato, na medida e forma em que tais responsabilidades forem alocadas.
+10.2.1 Em caso de interpelação judicial que tenha como réu a Leal Promotora, cujos fato funda-se em ação do usuário, este será chamado ao processo devendo arcar com todos os ônus que daí decorram, nos termos do artigo 70, III do Código de Processo Civil.
+</textarea>
