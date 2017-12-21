@@ -77,9 +77,9 @@
             'datasource' => 'Database/Mysql',
             'persistent' => false,
             'host' => 'localhost',
-            'login' => 'simulado_db',
-            'password' => 'efM&,vKQ@@)M3Vvi)N',
-            'database' => 'simulado_simulador',
+            'login' => '',
+            'password' => '',
+            'database' => '',
 			'encoding' => 'latin1',
             'prefix' => '',
         );
